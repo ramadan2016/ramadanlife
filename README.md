@@ -1,2 +1,2 @@
 # ramadanlife
-(ramadanlife.com) Source Code [be blessed in ramadan].
+[RamadanLife.com](ramadanlife.com) be blessed in ramadan.
