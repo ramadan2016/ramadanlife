@@ -1,2 +1,2 @@
 # ramadanlife
-[RamadanLife.com](ramadanlife.com) be blessed in ramadan.
+[RamadanLife.com](http://ramadanlife.com) be blessed in ramadan.
